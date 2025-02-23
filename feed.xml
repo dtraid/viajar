@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Viajar</title>
+    <link href="https://dtraid.com/viajar/feed.xml" rel="self" />
+    <link href="https://dtraid.com/viajar" />
+    <updated>2025-02-23T13:05:17-05:00</updated>
+    <author>
+        <name>Diego</name>
+    </author>
+    <id>https://dtraid.com/viajar</id>
+
+    <entry>
+        <title>Test viajar</title>
+        <author>
+            <name>Diego</name>
+        </author>
+        <link href="https://dtraid.com/viajar/test-viajar.html"/>
+        <id>https://dtraid.com/viajar/test-viajar.html</id>
+
+        <updated>2025-02-23T13:05:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum blahblah
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Lorem ipsum blahblah
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
